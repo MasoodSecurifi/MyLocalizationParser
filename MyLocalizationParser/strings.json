@@ -1,0 +1,194 @@
+{
+  "root": {
+    "string": [
+      {
+        "-name": "sunRiseTime",
+        "#text": "SunRise"
+      },
+      {
+        "-name": "sunSetTime",
+        "#text": "SunSet"
+      },
+      {
+        "-name": "twilightTime",
+        "#text": "Twilight Time"
+      },
+      {
+        "-name": "weather",
+        "#text": "Weather"
+      },
+      {
+        "-name": "chancerain",
+        "#text": "Chance of Rain"
+      },
+      {
+        "-name": "rain",
+        "#text": "Raining"
+      },
+      {
+        "-name": "clear",
+        "#text": "Clear Sky"
+      },
+      {
+        "-name": "cloudy",
+        "#text": "Cloudy"
+      },
+      {
+        "-name": "tstorms",
+        "#text": "Thunder Storms"
+      },
+      {
+        "-name": "chancesnow",
+        "#text": "Chance of Snow"
+      },
+      {
+        "-name": "chanceflurries",
+        "#text": "Chance of Flurries"
+      },
+      {
+        "-name": "chancesleet",
+        "#text": "Chance of Sleet"
+      },
+      {
+        "-name": "chancetstorms",
+        "#text": "Chance of Storms"
+      },
+      {
+        "-name": "flurries",
+        "#text": "Flurries"
+      },
+      {
+        "-name": "fog",
+        "#text": "Fog"
+      },
+      {
+        "-name": "hazy",
+        "#text": "Hazy"
+      },
+      {
+        "-name": "mostlycloudy",
+        "#text": "Mostly Cloudy"
+      },
+      {
+        "-name": "mostlysunny",
+        "#text": "Mostly Sunny"
+      },
+      {
+        "-name": "nt_chanceflurries",
+        "#text": "Night: Chance of Flurries"
+      },
+      {
+        "-name": "nt_chancerain",
+        "#text": "Night: Chance of Rain"
+      },
+      {
+        "-name": "nt_chancesleet",
+        "#text": "Night: Chance of Sleet"
+      },
+      {
+        "-name": "nt_chancesnow",
+        "#text": "Night: Chance of Snow"
+      },
+      {
+        "-name": "nt_chancetstorms",
+        "#text": "Night: Chance of Storms"
+      },
+      {
+        "-name": "nt_clear",
+        "#text": "Night: Clear Sky"
+      },
+      {
+        "-name": "nt_cloudy",
+        "#text": "Night: Cloudy"
+      },
+      {
+        "-name": "nt_flurries",
+        "#text": "Night: Flurries"
+      },
+      {
+        "-name": "nt_fog",
+        "#text": "Night: Fog"
+      },
+      {
+        "-name": "nt_hazy",
+        "#text": "Night: Hazy"
+      },
+      {
+        "-name": "nt_mostlycloudy",
+        "#text": "Night: Mostly Cloudy"
+      },
+      {
+        "-name": "nt_mostlysunny",
+        "#text": "Night: Mostly Moony"
+      },
+      {
+        "-name": "nt_partlycloudy",
+        "#text": "Night: Partly Cloudy"
+      },
+      {
+        "-name": "nt_partlysunny",
+        "#text": "Night: Partly Moony"
+      },
+      {
+        "-name": "nt_rain",
+        "#text": "Night: Rain"
+      },
+      {
+        "-name": "nt_sleet",
+        "#text": "Night: Sleet"
+      },
+      {
+        "-name": "nt_snow",
+        "#text": "Night: Snow"
+      },
+      {
+        "-name": "nt_sunny",
+        "#text": "Night: Moony"
+      },
+      {
+        "-name": "nt_tstorms",
+        "#text": "Night: Thunder Storms"
+      },
+      {
+        "-name": "partlycloudy",
+        "#text": "Partly Cloudy"
+      },
+      {
+        "-name": "sleet",
+        "#text": "Sleet"
+      },
+      {
+        "-name": "partlysunny",
+        "#text": "Partly Sunny"
+      },
+      {
+        "-name": "snow",
+        "#text": "Snowing"
+      },
+      {
+        "-name": "sunny",
+        "#text": "Sunny"
+      },
+      {
+        "-name": "partlyMoony",
+        "#text": "Partly Moony"
+      },
+      {
+        "-name": "mostlyMoony",
+        "#text": "Mostly Moony"
+      },
+      {
+        "-name": "moony",
+        "#text": "Moony"
+      },
+      {
+        "-name": "setpoint_temp",
+        "#text": "SetPoint temp"
+      },
+      {
+        "-name": "sunnycondition",
+        "#text": "Condition"
+      }
+    ]
+  }
+}
